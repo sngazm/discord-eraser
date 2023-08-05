@@ -1,1 +1,5 @@
 .env
+.vscode
+node_modules
+tasks.json
+messages.txt
